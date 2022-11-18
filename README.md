@@ -15,7 +15,7 @@ Users should be able to:
 ![screenshot](./images/screenshot.png)
 
 ### Links
-- Live Site URL: [click here](https://migueweb.github.io/stats-preview-card-component/)
+- Live Site URL: [migueweb.github.io/stats-preview-card-component](https://migueweb.github.io/stats-preview-card-component/)
 
 ## My process
 
